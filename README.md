@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Who I'm</h1>
-<h3 align="center">A passionate ReactJS developer from India</h3>
+<h3 align="center">A passionate Frontend developer from India</h3>
 
 - 🌱 I’m currently learning **TypeScript, NextJS**
 
